@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**MayankSingh-30281920/MayankSingh-30281920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MayankSingh-30281920/MayankSingh-30281920** is a ✨ _special_ ✨ repository because its `Readme.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
